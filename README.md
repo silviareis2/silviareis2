@@ -10,12 +10,21 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-## Olá! Eu sou a Silvia Reis 2
+<span align="center">
 
-- 🌱 Estudando HTML| CSS | javaScript 
-- 😄 Pronouns: ela/dela
+<h2><img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá, seja bem-vindo(a)!</h2>
+
+</span>
+
+  - 🌱 Estudando HTML | CSS | javaScript 
+  - 😄 Pronouns: ela/dela
+  
+  <div align="center">
+    <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="700px" />
+  </div>
+
+<br>
 
 <div>
   <a href="https://github.com/silviareis2/silviareis2/">
