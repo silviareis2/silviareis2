@@ -27,15 +27,7 @@ Estudante apaixonada por tecnologia, estou começando minha jornada no mundo da 
 </p>
 <div style="display: inline_block"><br>
   
-  <p align="start"> 💻 Technologies & Tools </p>
-    <img align="center" alt="Silvia-HTML"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="Silvia-CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Silvia-Js"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-
-
-##
-
-# 👩‍💻 Bad Dev
+  <p align="start"> 👩‍💻 Bad Dev </p>
 
 ## Front-end Enthusiast
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -52,7 +44,7 @@ Mergulhando nos mistérios do back-end. Atualmente, estudando PHP para construir
 
 ## Conhecimentos Adicionais
 - Banco de Dados: MySQL
-- Sistemas Operacionais: Unix, Ubuntu
+- Sistemas Operacionais: Windows, Ubuntu
 
 Vamos quebrar as barreiras e construir algo incrível juntas. 🚀
 
