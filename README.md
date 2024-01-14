@@ -27,26 +27,30 @@ Estudante apaixonada por tecnologia, estou começando minha jornada no mundo da 
 </p>
 <div style="display: inline_block"><br>
   
-  <p align="start"> 👩‍💻 Bad Dev </p>
+  <span align="start"> 👩‍💻 Bad Dev </span>
 
-## Front-end Enthusiast
+<h2 align="start">Front-end Enthusiast</h2>
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-Explorando o lado sombrio do código com paixão pelo front-end. Transformando designs em experiências incríveis usando HTML, CSS e JavaScript.
+<p align=justify">Explorando o lado sombrio do código com paixão pelo front-end. Transformando designs em experiências incríveis usando HTML, CSS e JavaScript.</p>
 
-## Back-end Explorer
+##
+
+<h2 align="start">Back-end Explorer</h2>
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 Mergulhando nos mistérios do back-end. Atualmente, estudando PHP para construir lógica robusta e SQL para dominar os bancos de dados.
 
-## Conhecimentos Adicionais
+<h2 align"start"> Conhecimentos Adicionais</h2>
 - Banco de Dados: MySQL
 - Sistemas Operacionais: Windows, Ubuntu
 
-Vamos quebrar as barreiras e construir algo incrível juntas. 🚀
+<p align="justify">Vamos quebrar as barreiras e construir algo incrível juntas. 🚀</p> 
 
 <div>
   <a href="https://github.com/silviareis2/silviareis2/">
