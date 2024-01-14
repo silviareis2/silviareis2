@@ -35,6 +35,27 @@ Estudante apaixonada por tecnologia, estou começando minha jornada no mundo da 
 
 ##
 
+# 👩‍💻 Bad Dev
+
+## Front-end Enthusiast
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+Explorando o lado sombrio do código com paixão pelo front-end. Transformando designs em experiências incríveis usando HTML, CSS e JavaScript.
+
+## Back-end Explorer
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+Mergulhando nos mistérios do back-end. Atualmente, estudando PHP para construir lógica robusta e SQL para dominar os bancos de dados.
+
+## Conhecimentos Adicionais
+- Banco de Dados: MySQL
+- Sistemas Operacionais: Unix, Ubuntu
+
+Vamos quebrar as barreiras e construir algo incrível juntas. 🚀
+
 <div>
   <a href="https://github.com/silviareis2/silviareis2/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silviareis2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
