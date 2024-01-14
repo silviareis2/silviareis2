@@ -10,8 +10,18 @@
 </div>
 
 
-  - 👩🏾‍💻 Estudando HTML | CSS | javaScript 
-  - 👩🏾‍🎓 Pronomes: ela/dela
+### Olá, sou [Seu Nome]
+
+👩‍💻 Desenvolvedora Front-end | Futura Back-end Developer
+
+🌟 Apaixonada por tecnologia e construindo o futuro digital
+
+🚀 Atualmente explorando o universo do Front-end e buscando conhecimentos no Back-end
+
+📚 Comprometida com aprendizado contínuo e crescimento profissional
+
+Conecte-se comigo:
+[LinkedIn](seu-linkedin) | [GitHub](seu-github)
 <span align="center">
   
    ![249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d](https://github.com/silviareis2/silviareis2/assets/104873230/78d65f6e-fe96-45b9-b9e7-9cd85881f4a9)
