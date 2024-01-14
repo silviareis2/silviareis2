@@ -45,10 +45,6 @@ Estudante apaixonada por tecnologia, estou começando minha jornada no mundo da 
 
 <p align=]"justify">Mergulhando nos mistérios do back-end. Atualmente, estudando PHP para construir lógica robusta e SQL para dominar os bancos de dados.</p>
 
-<h2 align="start"> Conhecimentos Adicionais</h2>
-- Banco de Dados: MySQL <br>
-- Sistemas Operacionais: Windows, Ubuntu
-
 <p align="justify">Vamos quebrar as barreiras e construir algo incrível juntas. 🚀</p> 
 ## Banco de Dados 🛢️
 
