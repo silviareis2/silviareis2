@@ -1,8 +1,3 @@
-<!--
-**silviareis2/silviareis2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
--->
 <span align="center">
 <h1><img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá, seja bem-vindo(a)!</h1>
 
@@ -10,7 +5,6 @@
 
   - 👩🏾‍💻 Estudando HTML | CSS | javaScript 
   - 👩🏾‍🎓 Pronomes: ela/dela
-
 <span align="center">
   
    ![271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e](https://github.com/silviareis2/silviareis2/assets/104873230/accfc33a-1257-4342-bab4-cef6ba0c79b3)
