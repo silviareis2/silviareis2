@@ -10,6 +10,18 @@
    ![271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e](https://github.com/silviareis2/silviareis2/assets/104873230/accfc33a-1257-4342-bab4-cef6ba0c79b3)
 </span>  
 <br>
+<p align="justufy">
+  Sou uma estudante de análise e desenvlviment de sistemas, porém  perfil profissional é de uma desenvolvedora front-end, que está constante se  qualificando e apaixonando por experimentar experiências digitais inspiradoras.
+
+</p>
+<p align="start">
+  💌 Envie uma mensagem: ⤵️
+</p>
+
+<p align="start">  
+  <a href="https://www.linkedin.com/in/silviareis1/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silviareis1/" /></a>
+</p>  
 <div>
   <a href="https://github.com/silviareis2/silviareis2/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silviareis2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
