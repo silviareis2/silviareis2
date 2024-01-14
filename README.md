@@ -46,14 +46,13 @@ Estudante apaixonada por tecnologia, estou começando minha jornada no mundo da 
 <p align=]"justify">Mergulhando nos mistérios do back-end. Atualmente, estudando PHP para construir lógica robusta e SQL para dominar os bancos de dados.</p>
 
 <p align="justify">Vamos quebrar as barreiras e construir algo incrível juntas. 🚀</p> 
-## Banco de Dados 🛢️
 
-Atualmente, sou uma exploradora incansável dos mistérios dos bancos de dados. Meu arsenal inclui:
+##  <h3 align="start">Banco de Dados 🛢️</h3>
+
+<p align="justify">  Atualmente, sou uma exploradora incansável dos mistérios dos bancos de dados. Meu arsenal inclui:🚀</p>
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-Estou em constante aprendizado para criar estruturas robustas e eficientes, proporcionando bases sólidas para o mundo das aplicações back-end. Que a jornada pelos dados nunca tenha fim! 🚀
 
 </div>
 
