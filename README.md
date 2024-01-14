@@ -50,6 +50,15 @@ Estudante apaixonada por tecnologia, estou começando minha jornada no mundo da 
 - Sistemas Operacionais: Windows, Ubuntu
 
 <p align="justify">Vamos quebrar as barreiras e construir algo incrível juntas. 🚀</p> 
+## Banco de Dados 🛢️
+
+Atualmente, sou uma exploradora incansável dos mistérios dos bancos de dados. Meu arsenal inclui:
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+Estou em constante aprendizado para criar estruturas robustas e eficientes, proporcionando bases sólidas para o mundo das aplicações back-end. Que a jornada pelos dados nunca tenha fim! 🚀
+
 </div>
 
 <div>
