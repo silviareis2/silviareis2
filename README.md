@@ -5,9 +5,7 @@
 <h3>Conecte-se comigo:</h3>     
     <a href = "mailto:silviareis104@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/silviareis1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/sreis36" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-
-
+  <a href="https://instagram.com/sreis36" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 👩‍💻 Desenvolvedora Front-end | Futura Back-end Developer
@@ -27,30 +25,32 @@ Estudante apaixonada por tecnologia, estou começando minha jornada no mundo da 
 </p>
 <div style="display: inline_block"><br>
   
-  <span align="start"> 👩‍💻 Bad Dev </span>
+  <h2 align="start"> 👩‍💻 Bad Dev </h2>
 
-<h2 align="start">Front-end Enthusiast</h2>
+<h3 align="start">Front-end Enthusiast</h3>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-<p align=justify">Explorando o lado sombrio do código com paixão pelo front-end. Transformando designs em experiências incríveis usando HTML, CSS e JavaScript.</p>
+<p align="justify">
+    Explorando o lado sombrio do código com paixão pelo front-end. Transformando designs em experiências incríveis usando HTML, CSS e JavaScript.
+</p>
 
-##
 
-<h2 align="start">Back-end Explorer</h2>
+<h3 align="start">Back-end Explorer</h3>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-Mergulhando nos mistérios do back-end. Atualmente, estudando PHP para construir lógica robusta e SQL para dominar os bancos de dados.
+<p align=]"justify">Mergulhando nos mistérios do back-end. Atualmente, estudando PHP para construir lógica robusta e SQL para dominar os bancos de dados.</p>
 
-<h2 align"start"> Conhecimentos Adicionais</h2>
-- Banco de Dados: MySQL
+<h2 align="start"> Conhecimentos Adicionais</h2>
+- Banco de Dados: MySQL <br>
 - Sistemas Operacionais: Windows, Ubuntu
 
 <p align="justify">Vamos quebrar as barreiras e construir algo incrível juntas. 🚀</p> 
+</div>
 
 <div>
   <a href="https://github.com/silviareis2/silviareis2/">
