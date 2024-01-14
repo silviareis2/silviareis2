@@ -1,31 +1,21 @@
 <!--
 **silviareis2/silviareis2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 -->
 <span align="center">
-
-<h2><img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá, seja bem-vindo(a)!</h2>
+<h1><img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá, seja bem-vindo(a)!</h1>
 
 </span>
 
-  - 🌱 Estudando HTML | CSS | javaScript 
-  - 😄 Pronouns: ela/dela
+  - 👩🏾‍💻 Estudando HTML | CSS | javaScript 
+  - 👩🏾‍🎓 Pronomes: ela/dela
+
+<span align="center">
   
-  <div align="center">
-    <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="700px" />
-  </div>
-
+   ![271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e](https://github.com/silviareis2/silviareis2/assets/104873230/accfc33a-1257-4342-bab4-cef6ba0c79b3)
+</span>  
 <br>
-
 <div>
   <a href="https://github.com/silviareis2/silviareis2/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silviareis2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
