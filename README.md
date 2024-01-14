@@ -17,7 +17,7 @@
    ![249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d](https://github.com/silviareis2/silviareis2/assets/104873230/78d65f6e-fe96-45b9-b9e7-9cd85881f4a9)
 </span>  <br>
 <p align="justify">
-  Sou uma estudante de análise e desenvolvimento de sistemas, porém meu perfil profissional é de uma desenvolvedora front-end, que está constantemente se  qualificando e apaixonando por experiências digitais inspiradoras.
+Estudante apaixonada por tecnologia, estou começando minha jornada no mundo da programação com foco no desenvolvimento front-end. Comprometida com aprendizado constante, tenho planos de aprofundar meus conhecimentos em back-end. Vamos construir o futuro juntos!
 </p>
 <div style="display: inline_block"><br>
   
